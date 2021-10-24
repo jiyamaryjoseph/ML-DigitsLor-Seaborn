@@ -1,2 +1,2 @@
 # ML-DigitsLor-Seaborn
-here
+Here I am using Logestic Regression on prediction and confusion matrix with seaborn for plotting...
